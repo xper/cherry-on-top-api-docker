@@ -2,8 +2,8 @@
   "name": "docker-diffusers-api",
   "version": "0.0.1",
   "main": "index.js",
-  "repository": "https://github.com/kiri-art/docker-diffusers-api.git",
-  "author": "Gadi Cohen <dragon@wastelands.net>",
+  "repository": "https://github.com/xper/cherry-on-top-api-docker.git",
+  "author": "Xper <xper21@gmail.com>",
   "license": "MIT",
   "private": true,
   "devDependencies": {
